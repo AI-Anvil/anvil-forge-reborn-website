@@ -1,7 +1,14 @@
 {
+  "name": "ai-anvil",
+  "version": "1.0.0",
   "dependencies": {
     "vite": "^5.0.0"
-  }
+  },
   "scripts": {
-    "build:dev": "vite build --mode development"
+    "build:dev": "vite build --mode development",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
 }
+
