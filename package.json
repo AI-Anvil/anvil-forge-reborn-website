@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "vite": "^5.0.0"
-  },
+  }
   "scripts": {
     "build:dev": "vite build --mode development"
 }
