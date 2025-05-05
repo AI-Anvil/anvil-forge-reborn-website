@@ -30,7 +30,7 @@
 .client-logo img {
     height: 130px;
     width: 440px;
-    object-fit: contain;
+    object-fit: scale-down;
     filter: grayscale(100%) brightness(1.5);
     transition: filter 0.3s ease;
 }
