@@ -1,11 +1,7 @@
-
 // Import our CSS
-import './css/styles.css';
+import './css/main.css';
 
 // Import our JavaScript
 import './js/script.js';
 
-// Additional initialization if needed
-document.addEventListener('DOMContentLoaded', () => {
-  console.log('AI Anvil website initialized');
-});
+// No redundant initialization - we'll keep only the one in script.js
