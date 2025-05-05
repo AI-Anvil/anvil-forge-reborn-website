@@ -5,7 +5,7 @@ import './css/styles.css';
 // Import our JavaScript
 import './js/script.js';
 
-// Initialize the application
+// Additional initialization if needed
 document.addEventListener('DOMContentLoaded', () => {
   console.log('AI Anvil website initialized');
 });
